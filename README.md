@@ -18,7 +18,7 @@
 
 </p>
 
-<h2>:fire: My Stats: </h2>
+<h2>🔥 My Stats: </h2>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PskProduction&theme=solarized_dark)
 
